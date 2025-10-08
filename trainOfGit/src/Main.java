@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello People");
+        if (1 > 20) {
+            System.out.println("You are genius!");
+        }
     }
 }
